@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="img/avatar-rounded.png" />
-   <h3 align="center">¡Hey 👋! Soy Esteban Escolano Molin 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola 👋! Soy Esteban Escolano Molin 👨🏻‍💻</h3>
 </p>
 
 <p align="center">
