@@ -34,7 +34,7 @@
 
 Acumulo una experiencia de más de 20 años en la planificación y desarrollo de soluciones empresariales basadas en Sistemas de Información Geográfica y tecnologías geoespaciales.
 
-He trabajado como consultor GIS tanto en la empresa privada como para organismos oficiales como el **Instituto Geográfico Nacional** o **Ministerio de Hacienda**. Dispongo de experiencia tanto en el desarrollo para entornos web, como en aplicaciones cliente - servidor.
+He trabajado como consultor GIS tanto en la empresa privada (REE, El Corte Inglés, Banco Santander), como para organismos oficiales como el **Instituto Geográfico Nacional** o **Ministerio de Hacienda**. Dispongo de experiencia tanto en el desarrollo para entornos web, como en aplicaciones cliente - servidor.
 
 También he tenido experiencia en trato con clientes y proveedores, así como trato con distintas áreas dentro de una empresa para la gestión y puesta en marcha de proyectos
 
